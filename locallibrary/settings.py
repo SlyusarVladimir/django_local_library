@@ -34,7 +34,6 @@ ALLOWED_HOSTS = ['web-production-3640.up.railway.app', '127.0.0.1']
 # Set CSRF trusted origins to allow any app on Railway and the local testing URL
 CSRF_TRUSTED_ORIGINS = ['https://web-production-3640.up.railway.app']
 
-
 # Application definition
 
 MIDDLEWARE = [
